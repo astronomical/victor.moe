@@ -1,0 +1,2 @@
+# victor.moe
+Domain redirect
